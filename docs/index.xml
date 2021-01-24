@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SDS Africa</title>
+    <link>https://sdsafrica.co.za/</link>
+    <description>Recent content on SDS Africa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate><atom:link href="https://sdsafrica.co.za/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Public launch</title>
+      <link>https://sdsafrica.co.za/blog/launch/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>https://sdsafrica.co.za/blog/launch/</guid>
+      <description>We are excited to announce our launch event!</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>https://sdsafrica.co.za/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sdsafrica.co.za/about/</guid>
+      <description>Students for a Democratic Society South Africa formed in 2019 at Stellenbosch University. A group of students started a political philosophy reading group and decided to band together around their shared frustrations with local, national, and international society and politics.</description>
+    </item>
+    
+    <item>
+      <title>Membership</title>
+      <link>https://sdsafrica.co.za/membership/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sdsafrica.co.za/membership/</guid>
+      <description>To become a member&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Organisational structure</title>
+      <link>https://sdsafrica.co.za/structure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sdsafrica.co.za/structure/</guid>
+      <description>VSM</description>
+    </item>
+    
+  </channel>
+</rss>

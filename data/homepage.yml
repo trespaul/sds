@@ -1,0 +1,18 @@
+####################### Banner #########################
+banner:
+  title : "Students for a Democratic Society"
+  image : "images/home_banner.jpg"
+  button:
+    enable : false
+    label : "about"
+    link : "/about/"
+
+##################### Social ##########################
+description:
+  content : "Students for a Democratic Society is an activist, advocacy, and education organisation consisting of students who question the given status quo and the concepts that accompany it. We realise that the “default” conception of the world necessarily work to the benefit of certain people, and to the detriment of others. We believe that critical inquiry into these hegemonic concepts is necessary, and that they must be deconstructed and the concepts reclaimed into an emancipatory project. We consider ourselves “radicals” in the sense that we vow to address problems at their roots, and that we believe superficial temporary solutions are not good enough."
+      
+        
+##################### Error 404 #####################
+error404:
+  image : "images/404.png"
+  copyright : "404 Not Found by Jennifer Suplee"

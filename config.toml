@@ -1,0 +1,120 @@
+title = "SDS Africa"
+baseURL = "https://sdsafrica.co.za"
+
+theme = "sicily"
+
+disqusShortname = ""
+googleAnalytics = ""
+languageCode = "en-us"
+languageName = "En"
+
+paginate = "10"
+summaryLength = "15"
+
+#[markup.goldmark.renderer]
+#unsafe = true
+
+
+
+[params]
+author = "SDS Africa"
+contact_form_action = "https://formspree.io/info@sdsafrica.co.za"
+description = "This is meta description"
+logo = "images/logo.png"
+logo_width = "200px"
+
+[params.company]
+#address = ""
+city = "Stellenbosch"
+country = "South Africa"
+email = "info@sdsafrica.co.za"
+#phone = ""
+
+[params.navigation_button]
+enable = false
+label = "Get in touch"
+link = "contact"
+
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/custom/clean-footer.css"
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+
+[params.preloader]
+enable = false
+preloader = ""
+
+#[[params.footer]]
+#rol_email = "theory@sdsafrica.co.za"
+#rol_name = "Theory"
+#rol_representative = "Name McName"
+#[[params.footer]]
+#rol_email = "praxis@sdsafrica.co.za"
+#rol_name = "Praxis"
+#rol_representative = "Name McName"
+#[[params.footer]]
+#rol_email = "admin@sdsafrica.co.za"
+#rol_name = "Admin"
+#rol_representative = "Name McName"
+
+[[params.social]]
+icon = "ti-facebook"
+link = "https://facebook.com/sdsafrica"
+title = "facebook"
+[[params.social]]
+icon = "ti-twitter-alt"
+link = "https://twitter.com/sdsafrica"
+title = "twitter"
+[[params.social]]
+icon = "ti-instagram"
+link = "https://instagram.com/sdsafrica"
+title = "instagram"
+
+
+#[[menu.main]]
+#URL = "blog"
+#name = "Blog"
+#weight = 1
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 2
+[[menu.main]]
+#URL = "structure"
+#name = "structure"
+#weight = 3
+#[[menu.main]]
+#URL = "membership"
+#name = "membership"
+#weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 5
+
+#[[menu.company]]
+#URL = "blog"
+#name = "Blog"
+[[menu.company]]
+URL = "about"
+name = "About"
+[[menu.company]]
+URL = "contact"
+name = "Contact"
+
+#[[menu.product]]
+#URL = "membership"
+#name = "Membership"
+#[[menu.product]]
+#URL = "structure"
+#name = "Structure"
