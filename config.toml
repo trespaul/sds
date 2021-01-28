@@ -90,9 +90,9 @@ URL = "about"
 name = "About"
 weight = 2
 [[menu.main]]
-#URL = "structure"
-#name = "structure"
-#weight = 3
+URL = "structure"
+name = "structure"
+weight = 3
 #[[menu.main]]
 #URL = "membership"
 #name = "membership"
