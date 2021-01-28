@@ -4,7 +4,7 @@ draft: false
 toc: true
 ---
 
-*If you don’t want to read everything, just read the [short summary](#full-diagram-and-short-summary) section.*
+*Skip to the [short summary](#full-diagram-and-short-summary) section if you are in a hurry.*
 
 
 # Introduction
