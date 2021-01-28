@@ -81,7 +81,7 @@ The numbered blocks are systems: they signify a certain mode of operating in the
 
 The purpose of each system is listed underneath the labels in the [first diagram of this page](#systems). Most importantly is System 1, which enacts the purpose of the organisation; the rest is there to enable the continued function of System 1. Each system has a subsystem to divide its responsibilities into manageable pieces. System 5 consists of the abstract principles and mission of the organisation which are decided by everyone, by consensus or by vote.
 
-The lines are where the systems interact, and the circles are where the systems interact or observe the external world.
+The lines are where the systems interact, and the circles are where the systems interact with or observe the external world.
 
 
 # Conclusion
