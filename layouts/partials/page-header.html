@@ -1,0 +1,8 @@
+<section class="section pb-0">
+  <div class="container">
+    <h1 class="display-1 text-break text-lg-center" style="font-weight: bold;">{{ .Title | markdownify }}</h1>
+    {{ with .Params.subtitle }}
+    <p style="color: gray;">{{ . | markdownify }}</p>
+    {{ end }}
+  </div>
+</section>
