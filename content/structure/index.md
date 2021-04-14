@@ -18,7 +18,7 @@ Those familiar will immediately recognise that the following layout is largely b
 
 ## Systems
 
-{{< figure src="1_systems.png" width="50%" >}}
+{{< figure src="1_systems.png" class="col-md-6 offset-md-3" >}}
 
 In the above design there are 5 main components (the “systems”), each with a specific responsibility. Firstly, it should be noted that the interaction of these systems should not be hierarchical (at least in the sense of “power over”): the characteristics of the responsibilities of the systems should in fact encourage *autonomous* behaviour of the various parts. Secondly, the systems should not be viewed as organisational “levels” with people occupying specific “jobs” in the levels. Humans are distributed throughout the entire system on a voluntary and, for specific positions, elected basis. Every member of the organisation thus operates as a part of every system depending on their current action. It is thus perhaps easier to think of the systems as “modes” of organising, with every system necessitating a certain outlook and types of tasks. Certain tasks are just best performed when occupied by specific individuals for longer amounts of time (a “term of office”, if you will).
 
@@ -32,7 +32,7 @@ System 4 manages the organisation like a steersman[^1] steers a ship: it looks a
 
 ## Recursion
 
-{{< figure src="2_x-ray.png" width="50%" >}}
+{{< figure src="2_x-ray.png" class="col-md-6 offset-md-3" >}}
 
 Turning on x-ray mode, we see that each system can have subsystems that (roughly) follow the same layout as the entire organisation (the 5 systems). It is mostly unnecessary to think in these terms explicitly while the subsystems are only composed of a few people. Just like systems can contain subsystems, the entire organisation can be encapsulated in a system of a larger organisation if, for example, it were to join a federation.
 
@@ -45,7 +45,7 @@ In order for this to be successful, each subsystem / team needs to have (given /
 
 Any part of the proposed organisation can be changed with sufficient democratic force. The following is a suggested starting point.
 
-{{< figure src="3_teams.png" width="50%" >}}
+{{< figure src="3_teams.png" class="col-md-6 offset-md-3" >}}
 
 In the case of SDS, the subsystems of System 1 will be broadly categorised under Theory, Praxis, and Admin.
 
@@ -75,7 +75,7 @@ Communication can happen in any accessible manner. This could mean via Whatsapp 
 
 We can visualise all the aforementioned information like so:
 
-{{< figure src="4_full.png" width="50%" >}}
+{{< figure src="4_full.png" class="col-md-6 offset-md-3" >}}
 
 The numbered blocks are systems: they signify a certain mode of operating in the organisation, that is, what actions are being done. They are not hierarchical levels: humans are all throughout the network and can move around and occupy multiple functions simultaneously or variably, on a voluntary basis. Certain positions are elected so that they can sufficiently democratically represent the will of the members and to ensure stability. The elected positions are those in System 4: Management and 3: Optimisation, as well as the representatives of System 1: Operation teams in System 2: Coordination. Those in the elected positions cannot also be in those positions noted on the connecting lines to prevent conflict of interest and to encourage diversity of interaction.
 
